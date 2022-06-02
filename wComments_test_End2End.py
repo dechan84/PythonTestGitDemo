@@ -10,7 +10,8 @@ import pytest
 import time
 # hello
 from Utilities.BaseClass import BaseClass
-
+from Utilities.BaseClass import BaseClass
+from Utilities.BaseClass import BaseClass
 
 # We invoke the parent class BaseClass to use the fixture, then we dont need to keep writing the usefixtures
 # everytime
